@@ -45,6 +45,9 @@ def test_create_task():
     assert isinstance(task, Task)
     assert task.name == "cqrs_learning"
 
+    # 必ず未完了の状態でインスタンス生成という制約をテスト
+    assert task.task_status == task.Task_Status.UNDONE
+
 
 def test_task_status():
     pass

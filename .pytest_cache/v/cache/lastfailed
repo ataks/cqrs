@@ -1,1 +1,3 @@
-{}
+{
+  "tests/application_service/test_done_task.py::test_done_task": true
+}

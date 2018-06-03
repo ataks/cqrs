@@ -1,4 +1,5 @@
 [
+  "tests/application_service/test_task_transaction.py::test_done_task",
   "tests/domain/entity/test_entity.py::test_user_entity_object",
   "tests/domain/entity/test_entity.py::test_own_user_valid_dict",
   "tests/domain/entity/test_entity.py::test_create_task",
