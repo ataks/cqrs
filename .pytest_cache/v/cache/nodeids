@@ -1,0 +1,6 @@
+[
+  "tests/domain/entity/test_entity.py::test_user_entity_object",
+  "tests/domain/entity/test_entity.py::test_own_user_valid_dict",
+  "tests/domain/entity/test_entity.py::test_create_task",
+  "tests/domain/entity/test_entity.py::test_task_status"
+]
